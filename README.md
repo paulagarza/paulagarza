@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! I'm Paula👩‍💻
+Welcome to my GitHub!<br>
+I'm an App Developer with a passion for creating clean, efficient, and user-friendly applications.<br>
+Currently, I'm studying Computer Engineering to deepen my knowledge and take my skills to the next level.
 
-<!--
-**paulagarza/paulagarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️Current focus:
+- Building mobile and web apps
+- Exploring new technologies and frameworks
+- Improving my problem-solving and coding skills
 
-Here are some ideas to get you started:
+📚Learning journey:
+I'm constantly learning and experimenting with new ideas, tools, and best practices in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect!
+I'm always open to collaborate on exciting projects, learn from others, and share what I know.
+
+🚀 Let's build something amazing together!
