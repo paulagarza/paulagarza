@@ -12,7 +12,7 @@ Currently, I'm studying Computer Engineering to deepen my knowledge and take my 
 I'm constantly learning and experimenting with new ideas, tools and best practices in software development.
 
 Let's connect!
-I'm always open to collaborate on exciting projects, learn from others, and share what I know.
+I'm always open to collaborate on exciting projects, learn from others and share what I know.
 
 🚀 Let's build something amazing together!
 
