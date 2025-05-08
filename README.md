@@ -9,7 +9,7 @@ Currently, I'm studying Computer Engineering to deepen my knowledge and take my 
 - Improving my problem-solving and coding skills
 
 📚Learning journey:
-I'm constantly learning and experimenting with new ideas, tools, and best practices in software development.
+I'm constantly learning and experimenting with new ideas, tools and best practices in software development.
 
 Let's connect!
 I'm always open to collaborate on exciting projects, learn from others, and share what I know.
